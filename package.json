@@ -1,0 +1,22 @@
+{
+  "name": "bs4starter",
+  "version": "1.0.0",
+  "description": "Bootstrap 4 starter workflow",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Brad Traversy",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "4.0.0-beta",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.2.1",
+    "popper.js": "^1.11.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}

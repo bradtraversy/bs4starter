@@ -1,12 +1,10 @@
 # Bootstrap 4 Starter Pack (BETA 4.0.0)
 
-Includes complete Bootstrap 4.0.0-beta dev environment with gulp and sass
-
-If you are looking for the alpha6 version [click here](https://github.com/bradtraversy/bs4starter_alpha6)
+Latest version of Bootstrap 4! Automation with Gulp and support for sass!
 
 ### Version
 
-1.0.0
+2.0.0
 
 ## Install Dependencies
 

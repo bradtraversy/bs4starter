@@ -1,4 +1,4 @@
-# Bootstrap 4 Starter Pack (BETA 4.0.0)
+# Bootstrap 4 Starter Pack (version 4.5.2)
 
 Latest version of Bootstrap 4! Automation with Gulp and support for sass!
 
